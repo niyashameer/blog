@@ -1,0 +1,18 @@
+.Card {
+    height: 360px;
+    width: 400px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+    flex-wrap: nowrap;
+}
+.text {
+    height: 100px;
+    width: 400px;
+}
+
+.text h1 {
+    color: rgba(14,111,138,1);
+}

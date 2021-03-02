@@ -1,0 +1,26 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 0px;
+    width: 100%;
+    font-size: 30px;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 70;
+    text-align: center;
+    padding: 150px;
+}
+.footer span {
+    color: rgba(14,111,138,1);
+    opacity: 70%;
+}
+.icons {
+    display: flex;
+    width: 30%;
+    justify-content: space-evenly;
+}
+.fab {
+    color: rgba(249,228,215,1);
+    font-size: 30px;
+    margin: 0 auto;
+}

@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0, auto;
+    padding: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    text-align: center;
+}
+.headerMenu a{
+    display: inline-block;
+    margin: 0 20px;
+    text-decoration: none;
+    color: rgba(47,54,60,1);
+}
+.headerOne a{
+    display: inline-block;
+    margin: 0 40px;
+    text-decoration: none;
+    font-family: 'Tangerine', cursive;
+    text-transform: capitalize;
+    color: rgba(14,111,138,1);
+    font-size: 60px;
+    padding: 0px;
+}
+.headerMenu button {
+    background-color: rgba(223,177,154,1);
+    box-sizing: border-box;
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    text-align: center;
+    border-style: none;
+}
+
+.scrolled{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 96%;
+    background-color: white;
+  }

@@ -1,0 +1,30 @@
+[
+        {
+            "id":1,
+            "name":"card1",
+            "URL" : "../../blogIMG/card1.jpg",
+            "heading" : "BLOG TITLE GOES HERE",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+        },
+        {
+            "id":2,
+            "name":"card2",
+            "URL" : "../../blogIMG/card2.jpeg",
+            "heading" : "BLOG TITLE GOES HERE",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+        },
+        {
+            "id":1,
+            "name":"card3",
+            "URL" : "../../blogIMG/card3.jpg",
+            "heading" : "BLOG TITLE GOES HERE",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+        },
+        {
+            "id":1,
+            "name":"card4",
+            "URL" : "../../blogIMG/card4.jpg",
+            "heading" : "BLOG TITLE GOES HERE",
+            "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+        }
+]

@@ -1,0 +1,44 @@
+.main {
+    height: 300px;
+    width: 100%;
+    background-color: rgba(223,177,154,1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-flow: column;
+    color: white;
+}
+.main h1{
+    margin: 10px auto;
+    font-family: 'Tangerine', cursive;
+    font-size: 100px;
+    font-weight: 70;
+    opacity: 70%;
+}
+.main h2{
+    margin: 10px auto;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 70;
+    font-size: 50px;
+}
+.main h3{
+    margin: 10px auto;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    font-weight: 70;
+    opacity: 90%;
+}
+  .cardContainer {
+    width: 70%;
+    height: 60%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+  }
