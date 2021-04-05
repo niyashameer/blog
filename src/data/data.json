@@ -14,14 +14,14 @@
             "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
         },
         {
-            "id":1,
+            "id":3,
             "name":"card3",
             "URL" : "../../blogIMG/card3.jpg",
             "heading" : "BLOG TITLE GOES HERE",
             "value" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
         },
         {
-            "id":1,
+            "id":4,
             "name":"card4",
             "URL" : "../../blogIMG/card4.jpg",
             "heading" : "BLOG TITLE GOES HERE",
